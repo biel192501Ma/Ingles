@@ -1,0 +1,3692 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rowdies&family=Ubuntu:wght@400;700&display=swap');
+
+.body{
+    padding: 0 !important;
+    margin: 0 !important;
+    
+      overflow-x: hidden  !important;
+}
+
+
+@media(min-width: 320px){
+  
+    .bgimg2{
+        margin-left: -5px;
+        width: 200px !important;
+    }
+    .direitora{
+        width: 143px !important;
+    }
+    .btn-input{
+        cursor: pointer !important;
+        width: 153px;
+        height: 20px;
+        margin-left: 1%;
+        margin-top: 2%;
+        border: none;
+        font-size: 10px;
+        color: white;
+        object-fit: contain;
+        border-radius: 8px;
+        border: solid 1px #dadada;
+        background-image: linear-gradient(to right, #1cce46, #16c5b9);
+    }
+    .titleinput{
+        margin: 10px 20px;
+        object-fit: contain;
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-family: Gotham;
+        font-size: 15px !important;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.1;
+        letter-spacing: -.5px;
+        text-align: left;
+        color: #1f1f1f;
+    }
+    .input1{
+        padding: 5px ;
+        font-size: 9px ;
+        background-color: white;
+        border: none;
+        width: 80% !important;
+       margin-left: 4% ;
+       margin-bottom: 3% ;
+    }
+    .input2{
+        padding: 5px ;
+        font-size: 9px ;
+        background-color: white;
+        border: none;
+        width: 65% !important;
+       margin-left: 4% ;
+       margin-bottom: 3% ;
+    
+    }
+    #linearHeade{
+        margin-left: 32%;
+        margin-top: -4%;
+       
+        width: 60px;
+        height: 75px;
+        padding: 59px 0 71px 76px;
+        object-fit: contain;
+        background-image: linear-gradient(142deg, #18103d, #060314 100%);
+       
+    }
+    .homemheader{
+        left: 150px;
+        top: 21px;
+        height: 180px;
+        width: 100px;
+        position: absolute;
+    
+    }
+    .meialua{
+        top: 90px;
+        left: 271px;
+        position: absolute;
+        height: 100px;
+        width: 50px;
+    }
+    .elipseheader{
+        left: 240px;
+        top: 60px;
+        position: absolute;
+        height: 15px;
+        width: 15px;
+    }
+    .elipse2{
+        left: 120px;
+        top: 160px;
+        position: absolute;
+        height: 15px;
+        width: 15px;
+    }
+    .elipsegray{
+        left: 220px;
+        top: 20px;
+        position: absolute;
+        height: 5px;
+        width: 5px;
+    }
+    .poligonowhite{
+        left: 292px;
+        top: 35px;
+        position: absolute;
+        height: 7px;
+        width: 7px;
+    }
+    .poligonoleft{
+        left: 190px;
+        top: 50px;
+        position: absolute;
+        height: 10px;
+        width: 10px;
+    }
+    .poligonorigth{
+        left: 20px;
+        top: 10px;
+        position: absolute;
+        height: 10px;
+        width: 10px;
+    }
+    .retangulogray{
+        left: 120px;
+        top: 20px;
+        position: absolute;
+        height: 10px;
+        width: 10px;
+
+    }
+    .retanguloverm{
+        left: 10px;
+        top: 160px;
+        position: absolute;
+        height: 10px;
+        width: 10px;
+    }
+    .retanguloblue{
+        left: 260px;
+        top: 90px;
+        position: absolute;
+        height: 10px;
+        width: 10px;
+    }
+    .circlewhite{
+        left: 290px;
+        top: 120px;
+        position: absolute;
+        height: 12px;
+        width: 12px;
+    }
+    .circlewhite2{
+        left: 290px;
+        top: 140px;
+        position: absolute;
+        height: 12px;
+        width: 12px;
+    }
+    .circlewhite3{
+        left: 290px;
+        top: 160px;
+        position: absolute;
+        height: 12px;
+        width: 12px;
+    }
+    .face{
+        left: 294px;
+        top: 123px;
+        position: absolute;
+        height: 6px;
+        width: 4px;
+    }
+    .insta{
+        left: 293px;
+        top: 143px;
+        position: absolute;
+        height: 6px;
+        width: 6px;
+    }
+    .whats{
+        left: 293px;
+        top: 163px;
+        position: absolute;
+        height: 6px;
+        width: 6px;
+    }
+   .btnHeader{
+       cursor: pointer !important;
+    width: 80px !important;
+    height: 20px;
+    margin-bottom: 25% ;
+    border: none;
+  font-size: 5px;
+  color: white;
+   font-family: 'Gotham';
+    border-radius: 10px;
+    background-image: linear-gradient(to right, #18103d, #ff1938);
+   }
+
+
+
+    .circle{
+     
+        position: absolute;
+        left: 235px;
+        right: 0;
+        top: 517px;
+        bottom: 0;
+       height: 20px;
+       width: 20px;
+    }
+    .poligono2{
+      
+        position: absolute;
+        left: 270px;
+        right: 0;
+        top: 550px;
+        bottom: 0;
+       height: 20px;
+       width: 20px;
+
+    }
+    .quadrado2{
+       
+        position: absolute;
+        left: 290px;
+        right: 0;
+        top: 460px;
+        bottom: 0;
+       height: 15px;
+       width: 15px;
+
+    }
+    .retangulorosa2{
+        
+        position: absolute;
+        left: 10px;
+        right: 0;
+        top: 812px;
+        bottom: 0;
+       height: 30px;
+       width: 30px;
+    }
+    .retangulorosa{
+     
+        position: absolute;
+        left: 140px;
+        right: 0;
+        top: 615px;
+        bottom: 0;
+       height: 15px;
+       width: 15px;
+    }
+    .poligonoverm{
+      opacity: 0.9;
+        position: absolute;
+        left: 160px;
+        right: 0;
+        top: 860px;
+        bottom: 0;
+       height: 30px;
+       width: 30px;
+    }
+    .elipse{
+      
+        position: absolute;
+        left: 155px;
+        right: 0;
+        top: 410px;
+        bottom: 0;
+       height: 30px;
+       width: 30px;
+    }
+    .poligono3{
+        position: absolute;
+        left: 302px;
+        right: 0;
+        top: 825px;
+        bottom: 0;
+       height: 15px;
+       width: 15px;
+    }
+    .poligono4{
+        position: absolute;
+        left: 180px;
+        right: 0;
+        top: 710px;
+        bottom: 0;
+       height: 15px;
+       width: 15px;
+    }
+    .retangulo3{
+        position: absolute;
+        left: 200px;
+        right: 0;
+        top: 875px;
+        bottom: 0;
+       height: 15px;
+       width: 15px;
+    }
+    .circleblue{
+        position: absolute;
+        left: 270px;
+        right: 0;
+        top: 620px;
+        bottom: 0;
+       height: 10px;
+       width: 10px;
+    }
+    .imgteacher{
+        height: 30px;
+        width: 30px;
+        padding: 0 5px;
+    }
+    .number1{
+        
+        z-index: -4;
+        height: 50px;
+        width: 50px;
+    }
+    .textnumber1{
+        opacity: 0.8;
+        position: absolute;
+        left: 190px;
+        right: 0;
+        top: 630px;
+        bottom: 0;
+        font-size: 10px;
+        font-weight: bold;
+    }
+    .number2{
+        margin-left: 80px;
+        margin-top: 15%;
+        z-index: -4;
+        height: 50px;
+        width: 50px;
+    }
+    .textnumber2{
+        opacity: 0.8;
+        position: absolute;
+        left: 200px;
+        right: 20px;
+        top: 700px;
+        bottom: 0;
+        font-size: 10px;
+        font-weight: bold;
+        text-align: end;
+    }
+
+    .number3{
+        margin-top: 15%;
+        z-index: -4;
+        height: 50px;
+        width: 50px;
+    }
+    .textnumber3{
+        opacity: 0.8;
+        position: absolute;
+        left: 200px;
+        right: 0;
+        top: 770px;
+        bottom: 0;
+        font-size: 10px;
+        font-weight: bold;
+    }
+
+    .number4{
+        margin-left: 80px;
+        margin-top: 5%;
+        z-index: -4;
+        height: 50px;
+        width: 50px;
+    }
+    .textnumber4{
+        opacity: 0.8;
+        position: absolute;
+        left: 200px;
+        right: 20px;
+        top: 830px;
+        bottom: 0;
+        font-size: 10px;
+        font-weight: bold;
+        text-align: end;
+    }
+    /*Footer*/
+
+
+    .ContainerFooter{
+        margin-left: -5% !important;
+        margin-bottom: -3% !important;
+    }
+    .Titlefooter{
+   
+
+  font-family: Gotham;
+ 
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.58;
+  letter-spacing: 1.8px;
+  text-align: left;
+  color: #ff1938;
+    }
+    .Titlefooter2{
+       
+ 
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.71;
+  letter-spacing: normal;
+  text-align: left;
+  color: #726e8f;
+    }
+    .bordasocial{
+        position: absolute;
+        left: 210px;
+        right: 0;
+        top: 1090px;
+        bottom: 0;
+       height: 15px;
+       width: 15px;
+    }
+    .bordasocial2{
+        position: absolute;
+        left: 230px;
+        right: 0;
+        top: 1090px;
+        bottom: 0;
+       height: 15px;
+       width: 15px;
+    }
+    .bordasocial3{
+        position: absolute;
+        left: 250px;
+        right: 0;
+        top: 1090px;
+        bottom: 0;
+       height: 15px;
+       width: 15px;
+    }
+    .bordasocial4{
+        position: absolute;
+        left: 270px;
+        right: 0;
+        top: 1090px;
+        bottom: 0;
+       height: 15px;
+       width: 15px;
+    }
+    .faceverm{
+        position: absolute;
+        left: 210px;
+        right: 0;
+        top: 1090px;
+        bottom: 0;
+       height: 15px;
+       width: 15px;
+    }
+    
+    .instaverm{
+        position: absolute;
+        left: 232.9px;
+        right: 0;
+        top: 1093px;
+        bottom: 0;
+       height: 8px;
+       width: 8px;
+    }
+    
+    .whatsverm{
+        position: absolute;
+        left: 253px;
+        right: 0;
+        top: 1093px;
+        bottom: 0;
+       height: 8px;
+       width: 8px;
+    }
+    
+    .emailverm{
+        position: absolute;
+        left: 273px;
+        right: 0;
+        top: 1093px;
+        bottom: 0;
+       height: 8px;
+       width: 8px;
+    }
+    
+
+}
+@media(min-width: 360px){
+    .bgimg2{
+        margin-left: -5px;
+        width: 192px !important;
+    }
+    .direitora{
+        margin-right: -10px;
+        width: 173px !important;
+    }
+    .btn-input{
+        width: 153px;
+        height: 20px;
+        margin-left: 1%;
+        margin-top: 2%;
+        border: none;
+        font-size: 10px;
+        color: white;
+        object-fit: contain;
+        border-radius: 8px;
+        border: solid 1px #dadada;
+        background-image: linear-gradient(to right, #1cce46, #16c5b9);
+    }
+    .titleinput{
+        margin: 10px 20px;
+        object-fit: contain;
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-family: Gotham;
+        font-size: 15px !important;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.1;
+        letter-spacing: -.5px;
+        text-align: left;
+        color: #1f1f1f;
+    }
+    .input1{
+        padding: 5px ;
+        font-size: 9px ;
+        background-color: white;
+        border: none;
+        width: 80% !important;
+       margin-left: 4% ;
+       margin-bottom: 3% ;
+    }
+    .input2{
+        padding: 5px ;
+        font-size: 9px ;
+        background-color: white;
+        border: none;
+        width: 65% !important;
+       margin-left: 4% ;
+       margin-bottom: 3% ;
+    
+    }
+    .boxwhiteheader{
+        height: 270px ;
+        width: 340px;
+    }
+    .boxtitleheader{
+        margin-top: 10% !important;
+        width: 200px !important;
+    }
+    #linearHeade{
+        margin-left: 7.9%;
+        margin-top: -4%;
+       
+        width: 100px;
+      
+        height: 155px;
+    }
+    .titleheader{
+        width: 150px;
+        font-size: 22px !important;
+    }
+    .subtitleheader{
+       
+        font-size: 10px !important;
+    }
+    .homemheader{
+        left: 152px;
+        top: 79px;
+        height: 200px;
+        width: 120px;
+        position: absolute;
+    }
+    .boxmenu{
+      margin-left: -65% !important;
+        margin-top: -45px !important;
+    }
+    .menu{
+        font-size: 7px !important;
+    }
+       .meialua{
+        top: 133px;
+        left: 295px;
+        position: absolute;
+        height: 120px;
+        width: 65px;
+    }
+    .circlewhite{
+        left: 312px;
+        top: 160px;
+        position: absolute;
+        height: 17px;
+        width: 17px;
+    }
+    .circlewhite2{
+        left: 312px;
+        top: 185px;
+        position: absolute;
+        height: 17px;
+        width: 17px;
+    }
+    .circlewhite3{
+
+        left: 312px;
+        top: 210px;
+        position: absolute;
+        height: 17px;
+        width: 17px;
+    }
+    .face{
+        left: 318px;
+        top: 165px;
+        position: absolute;
+        height: 7px;
+        width: 5px;
+    }
+    .insta{
+        left: 317px;
+        top: 190px;
+        position: absolute;
+        height: 8px;
+        width: 8px;
+    }
+    .whats{
+        cursor: pointer !important; 
+        left: 317px;
+        top: 215px;
+        position: absolute;
+        height: 8px;
+        width: 8px;
+    }
+    .elipsegray{
+        left: 220px;
+        top: 40px;
+        position: absolute;
+        height: 8px;
+        width: 8px;
+    }
+      .poligonowhite{
+        left: 320px;
+        top: 35px;
+        position: absolute;
+        height: 9px;
+        width: 9px;
+    }
+    .elipseheader{
+        left: 240px;
+        top: 110px;
+        position: absolute;
+        height: 22px;
+        width: 22px;
+    }
+    .retanguloblue{
+        left: 280px;
+        top: 150px;
+        position: absolute;
+        height: 10px;
+        width: 10px;
+    }
+    .poligonorigth{
+        left: 20px;
+        top: 35px;
+        position: absolute;
+        height: 15px;
+        width: 15px;
+    }
+    .retangulogray{
+        left: 130px;
+        top: 50px;
+        position: absolute;
+        height: 12px;
+        width: 12px;
+
+    }
+    .btnHeader{
+        width: 100px !important;
+        height: 25px;
+        margin-left: 10%;
+        margin-bottom: 25% ;
+        border: none;
+      font-size: 5px;
+      color: white;
+       font-family: 'Gotham';
+        border-radius: 10px;
+        background-image: linear-gradient(to right, #18103d, #ff1938);
+       }
+       .elipse2{
+        left: 130px;
+        top: 230px;
+        position: absolute;
+        height: 20px;
+        width: 20px;
+    }
+    .retanguloverm{
+        left: 10px;
+        top: 230px;
+        position: absolute;
+        height: 15px;
+        width: 15px;
+    }
+    .estudanteverm{
+        height: 210px !important;
+        width: 190px !important;
+    }
+    .professora{
+        margin-top: 2px !important;
+        height: 230px !important;
+        width: 170px !important;
+    }
+    .titleprofessor{
+        font-size: 17px !important;
+    }
+    .subtitleprofessor{
+        font-size: 8px !important;
+    }
+    .imgteacher{
+        height: 35px;
+        width: 35px;
+        padding: 0 5px;
+    }
+    .teachername{
+        font-size: 6px !important;
+    }
+    .elipse{
+      
+        position: absolute;
+        left: 170px;
+        right: 0;
+        top: 500px;
+        bottom: 0;
+       height: 40px;
+       width: 40px;
+    }
+    .quadrado2{
+       
+        position: absolute;
+        left: 330px;
+        right: 0;
+        top: 550px;
+        bottom: 0;
+       height: 18px;
+       width: 18px;
+
+    }
+    .circle{
+     
+        position: absolute;
+        left: 265px;
+        right: 0;
+        top: 617px;
+        bottom: 0;
+       height: 20px;
+       width: 20px;
+    }
+    .poligono2{
+      
+        position: absolute;
+        left: 300px;
+        right: 0;
+        top: 650px;
+        bottom: 0;
+       height: 20px;
+       width: 20px;
+
+    }
+    .bgimg{
+        width: 190px !important;
+    }
+    .retangulorosa2{
+        
+        position: absolute;
+        left: 10px;
+        right: 0;
+        top: 925px;
+        bottom: 0;
+       height: 35px;
+       width: 35px;
+    }
+    .retangulorosa{
+     
+        position: absolute;
+        left: 140px;
+        right: 0;
+        top: 725px;
+        bottom: 0;
+       height: 15px;
+       width: 15px;
+    }
+    .poligonoverm{
+        opacity: 0.7;
+          position: absolute;
+          left: 180px;
+          right: 0;
+          top: 960px;
+          bottom: 0;
+         height: 30px;
+         width: 30px;
+      }
+   
+    .textnumber1{
+        opacity: 0.8;
+        position: absolute;
+        left: 200px;
+        right: 0;
+        top: 755px;
+        bottom: 0;
+        font-size: 10px;
+        font-weight: bold;
+    }
+ 
+    .textnumber2{
+        opacity: 0.8;
+        position: absolute;
+        left: 200px;
+        right: 20px;
+        top: 830px;
+        bottom: 0;
+        font-size: 10px;
+        font-weight: bold;
+        text-align: end;
+    }
+
+   
+    .textnumber3{
+        opacity: 0.8;
+        position: absolute;
+        left: 200px;
+        right: 0;
+        top: 880px;
+        bottom: 0;
+        font-size: 10px;
+        font-weight: bold;
+    }
+
+ 
+    .textnumber4{
+        opacity: 0.8;
+        position: absolute;
+        left: 200px;
+        right: 20px;
+        top: 950px;
+        bottom: 0;
+        font-size: 10px;
+        font-weight: bold;
+        text-align: end;
+    }
+     .circleblue{
+        position: absolute;
+        left: 290px;
+        right: 0;
+        top: 750px;
+        bottom: 0;
+       height: 15px;
+       width: 15px;
+    }
+    .poligono3{
+        position: absolute;
+        left: 340px;
+        right: 0;
+        top: 925px;
+        bottom: 0;
+       height: 20px;
+       width: 20px;
+    }
+    .poligono4{
+        position: absolute;
+        left: 200px;
+        right: 0;
+        top: 810px;
+        bottom: 0;
+       height: 20px;
+       width: 20px;
+    }
+    .retangulo3{
+        position: absolute;
+        left: 220px;
+        right: 0;
+        top: 985px;
+        bottom: 0;
+       height: 15px;
+       width: 15px;
+    }
+    .Titlefooter{
+        margin-left: 4px !important;
+        font-size: 5px !important;
+    }
+    .Titlefooter2{
+        font-size: 4px !important;
+    }
+    .bordasocial{
+        position: absolute;
+        left: 250px;
+        right: 0;
+        top: 1210px;
+        bottom: 0;
+       height: 18px;
+       width: 18px;
+    }
+    .bordasocial2{
+        position: absolute;
+        left: 275px;
+        right: 0;
+        top: 1210px;
+        bottom: 0;
+       height: 18px;
+       width: 18px;
+    
+    }
+    .bordasocial3{
+        position: absolute;
+        left: 300px;
+        right: 0;
+        top: 1210px;
+        bottom: 0;
+       height: 18px;
+       width: 18px;
+    
+    }
+    .bordasocial4{
+        position: absolute;
+        left: 325px;
+        right: 0;
+        top: 1210px;
+        bottom: 0;
+       height: 18px;
+       width: 18px;
+    }
+    .faceverm{
+        position: absolute;
+        left: 250px;
+        right: 0;
+        top: 1210px;
+        bottom: 0;
+       height: 15px;
+       width: 15px;
+    }
+    
+    .instaverm{
+        position: absolute;
+        left: 279px;
+        right: 0;
+        top: 1213px;
+        bottom: 0;
+       height: 9px;
+       width: 9px;
+    }
+    
+    .whatsverm{
+        cursor: pointer !important; 
+        position: absolute;
+        left: 304px;
+        right: 0;
+        top: 1213px;
+        bottom: 0;
+        height: 9px;
+        width: 9px;
+    }
+    
+    .emailverm{
+        position: absolute;
+        left: 329px;
+        right: 0;
+        top: 1213px;
+        bottom: 0;
+        height: 9px;
+        width: 9px;
+    }
+    
+}
+@media(min-width: 411px){
+    .bgimg2{
+        margin-left: -5px;
+        width: 220px !important;
+    }
+    .direitora{
+        margin-right: -10px;
+        width: 190px !important;
+    }
+    .btn-input{
+        width: 153px;
+        height: 20px;
+        margin-left: 1%;
+        margin-top: 2%;
+        border: none;
+        font-size: 10px;
+        color: white;
+        object-fit: contain;
+        border-radius: 8px;
+        border: solid 1px #dadada;
+        background-image: linear-gradient(to right, #1cce46, #16c5b9);
+    }
+    .titleinput{
+        margin: 10px 20px;
+        object-fit: contain;
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-family: Gotham;
+        font-size: 15px !important;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.1;
+        letter-spacing: -.5px;
+        text-align: left;
+        color: #1f1f1f;
+    }
+    .input1{
+        padding: 5px ;
+        font-size: 9px ;
+        background-color: white;
+        border: none;
+        width: 80% !important;
+       margin-left: 4% ;
+       margin-bottom: 3% ;
+    }
+    .input2{
+        padding: 5px ;
+        font-size: 9px ;
+        background-color: white;
+        border: none;
+        width: 65% !important;
+       margin-left: 4% ;
+       margin-bottom: 3% ;
+    
+    }
+    .boxwhiteheader{
+        height: 310px ;
+        width: 380px;
+    }
+    #linearHeade{
+        margin-left: 12% ;
+        margin-top: -4%;
+        
+        width: 132px  !important;
+        height: 195px ;
+        padding: 59px 0 71px 76px;
+        object-fit: contain;
+        background-image: linear-gradient(142deg, #18103d, #060314 100%);
+    }
+    .containehome{
+        margin-top: -7% !important;
+    }
+    .boxmenu{
+        margin-left: -55% !important;
+          margin-top: -45px !important;
+      }
+      .menu{
+          font-size: 9px !important;
+      }
+      .homemheader{
+        left: 180px;
+        top: 118px;
+        height: 200px;
+        width: 120px;
+        position: absolute;
+    }
+    .poligonowhite{
+        left: 362px;
+        top: 35px;
+        position: absolute;
+        height: 9px;
+        width: 9px;
+    }
+    .elipsegray{
+        left: 250px;
+        top: 50px;
+        position: absolute;
+        height: 7px;
+        width: 7px;
+    }
+    .retanguloblue{
+        left: 310px;
+        top: 180px;
+        position: absolute;
+        height: 15px;
+        width: 15px;
+    }
+    .elipseheader{
+        left: 260px;
+        top: 100px;
+        position: absolute;
+        height: 25px;
+        width: 25px;
+    }
+    .meialua{
+        top: 170px;
+        left: 365px !important;
+        position: absolute;
+        height: 100px;
+        width: 50px;
+    }
+    .circlewhite{
+        left: 380px !important;
+        top: 190px;
+        position: absolute;
+        height: 12px;
+        width: 12px;
+    }
+    .circlewhite2{
+        left: 380px !important;
+        top: 210px;
+        position: absolute;
+        height: 12px;
+        width: 12px;
+    }
+    .circlewhite3{
+        left: 380px !important;
+        top: 230px;
+        position: absolute;
+        height: 12px;
+        width: 12px;
+    }
+    .face{
+        left: 383px !important;
+        top: 190px;
+        position: absolute;
+        height: 6px;
+        width: 4px;
+    }
+    .insta{
+        left: 382px !important;
+        top: 210px;
+        position: absolute;
+        height: 6px;
+        width: 6px;
+    }
+    .whats{
+        left: 382px !important ;
+        top: 230px;
+        position: absolute;
+        height: 6px;
+        width: 6px;
+    }
+    .estudanteverm{
+        height: 210px !important;
+        width: 225px !important;
+    }
+    .bgimg{
+        height: 300px !important;
+        width: 225px !important;
+    }
+    .bgquadrado{
+        width: 80% !important;
+    }
+    .elipse{
+      
+        position: absolute;
+        left: 200px;
+        right: 0;
+        top: 500px;
+        bottom: 0;
+       height: 40px;
+       width: 40px;
+    }
+    .quadrado2{
+       
+        position: absolute;
+        left: 370px;
+        right: 0;
+        top: 550px;
+        bottom: 0;
+       height: 18px;
+       width: 18px;
+
+    }
+    .circle{
+     
+        position: absolute;
+        left: 300px;
+        right: 0;
+        top: 620px;
+        bottom: 0;
+       height: 25px;
+       width: 25px;
+    }
+    .poligono2{
+        
+        position: absolute;
+        left: 340px;
+        right: 0;
+        top: 660px;
+        bottom: 0;
+        height: 25px;
+        width: 25px;
+        
+    }
+   
+        .textnumber1{
+            opacity: 0.8;
+            position: absolute;
+            left: 240px;
+            right: 0;
+            top: 770px;
+            bottom: 0;
+            font-size: 10px;
+            font-weight: bold;
+        }
+   
+        
+        .textnumber2{
+        opacity: 0.8;
+        position: absolute;
+        left: 200px;
+        right: 20px;
+        top: 830px;
+        bottom: 0;
+        font-size: 10px;
+        font-weight: bold;
+        text-align: end;
+    }
+
+   
+    .textnumber3{
+        opacity: 0.8;
+        position: absolute;
+        left: 230px;
+        right: 0;
+        top: 895px;
+        bottom: 0;
+        font-size: 10px;
+        font-weight: bold;
+    }
+
+    
+    .textnumber4{
+        opacity: 0.8;
+        position: absolute;
+        left: 220px;
+        right: 20px;
+        top: 950px;
+        bottom: 0;
+        font-size: 10px;
+        font-weight: bold;
+        text-align: end;
+    }
+    .circleblue{
+        position: absolute;
+        left: 330px;
+        right: 0;
+        top: 740px;
+        bottom: 0;
+        height: 15px;
+        width: 15px;
+    }
+    .poligono3{
+        position: absolute;
+        left: 390px;
+        right: 0;
+        top: 930px;
+        bottom: 0;
+       height: 20px;
+       width: 20px;
+    }
+    .poligono4{
+        position: absolute;
+        left: 260px;
+        right: 0;
+        top: 830px;
+        bottom: 0;
+       height: 20px;
+       width: 20px;
+    }
+    .retangulo3{
+        position: absolute;
+        left: 270px;
+        right: 0;
+        top: 1000px;
+        bottom: 0;
+        height: 15px;
+       width: 15px;
+    }
+    .Titlefooter{
+        margin-left: 4px !important;
+        font-size: 6px !important;
+    }
+    .Titlefooter2{
+        top: 2px !important;
+        font-size: 4px !important;
+    }
+    .bordasocial{
+        position: absolute;
+        left: 280px;
+        right: 0;
+        top: 1220px;
+        bottom: 0;
+        height: 18px;
+        width: 18px;
+    }
+    .bordasocial2{
+        position: absolute;
+        left: 305px;
+        right: 0;
+        top: 1220px;
+        bottom: 0;
+        height: 18px;
+        width: 18px;
+        
+    }
+    .bordasocial3{
+        position: absolute;
+        left: 330px;
+        right: 0;
+        top: 1220px;
+        bottom: 0;
+        height: 18px;
+        width: 18px;
+    
+    }
+    .bordasocial4{
+        position: absolute;
+        left: 360px;
+        right: 0;
+        top: 1220px;
+        bottom: 0;
+        height: 18px;
+       width: 18px;
+    }
+    .faceverm{
+        position: absolute;
+        left: 280px;
+        right: 0;
+        top: 1220px;
+        bottom: 0;
+       height: 15px;
+       width: 15px;
+    }
+    
+    .instaverm{
+        position: absolute;
+        left: 308px;
+        right: 0;
+        top: 1223px;
+        bottom: 0;
+        height: 10px;
+        width: 10px;
+    }
+    
+    .whatsverm{
+        
+        position: absolute;
+        left: 335px;
+        right: 0;
+        top: 1223px;
+        bottom: 0;
+        height: 10px;
+        width: 10px;
+    }
+    
+    .emailverm{
+        position: absolute;
+        left: 364px;
+        right: 0;
+        top: 1223px;
+        bottom: 0;
+        height: 10px;
+        width: 10px;
+    }
+    .retangulorosa2{
+        
+        position: absolute;
+        left: 10px;
+        right: 0;
+        top: 970px;
+        bottom: 0;
+        height: 30px;
+        width: 30px;
+    }
+    .retangulorosa{
+     
+        position: absolute;
+        left: 140px;
+        right: 0;
+        top: 765px;
+        bottom: 0;
+        height: 15px;
+       width: 15px;
+    }
+    .poligonoverm{
+        opacity: 0.9;
+          position: absolute;
+          left: 210px;
+          right: 0;
+          top: 970px;
+          bottom: 0;
+         height: 30px;
+         width: 30px;
+      }
+}
+@media(min-width:375px){
+
+    #linearHeade{
+        margin-left: 13%;
+        margin-top: -4%;
+       
+        width: 100px;
+        height: 155px;
+        padding: 59px 0 71px 76px;
+        object-fit: contain;
+        background-image: linear-gradient(142deg, #18103d, #060314 100%);
+    }
+    .meialua{
+        top: 140px;
+        left: 328px;
+        position: absolute;
+        height: 100px;
+        width: 50px;
+    }
+    .circlewhite{
+        left: 340px;
+        top: 160px;
+        position: absolute;
+        height: 12px;
+        width: 12px;
+    }
+    .circlewhite2{
+        left: 340px;
+        top: 180px;
+        position: absolute;
+        height: 12px;
+        width: 12px;
+    }
+    .circlewhite3{
+        left: 340px;
+        top: 200px;
+        position: absolute;
+        height: 12px;
+        width: 12px;
+    }
+    .face{
+        left: 343px;
+        top: 163px;
+        position: absolute;
+        height: 7px;
+        width: 5px;
+    }
+    .insta{
+        left: 342px;
+        top: 182px;
+        position: absolute;
+        height: 7px;
+        width: 7px;
+    }
+    .whats{
+        left: 342px;
+        top: 202px;;
+        position: absolute;
+        height: 7px;
+        width: 7px;
+    }
+    .homemheader{
+        left: 170px;
+        top: 79px;
+        height: 200px;
+        width: 120px;
+        position: absolute;
+    }
+    .professora{
+        margin-left: 0% !important;
+        margin-top: 2px !important;
+        height: 230px !important;
+        width: 190px !important;
+    }
+    .retangulorosa{
+     
+        position: absolute;
+        left: 140px ;
+        right: 0;
+        top: 725px;
+        bottom: 0;
+       height: 15px;
+       width: 15px;
+    }
+    .retangulorosa2{
+        
+        position: absolute;
+        left: 10px;
+        right: 0;
+        top: 925px;
+        bottom: 0;
+       height: 35px;
+       width: 35px;
+    }
+   
+  
+
+  
+
+    
+    
+}
+@media(min-width:414){
+    
+    .professora{
+        margin-top: 2px !important;
+        height: 230px !important;
+        width: 190px !important;
+    }
+}
+
+@media (min-width: 540px) {
+    .bgimg2{
+        margin-left: -5px;
+        width: 270px !important;
+        height: 250px !important;
+    }
+    .direitora{
+        margin-right: -10px;
+        width: 270px !important;
+        height: 250px !important;
+    }
+    .btn-input{
+        width: 153px;
+        height: 20px;
+        margin-left: 1%;
+        margin-top: 2%;
+        border: none;
+        font-size: 10px;
+        color: white;
+        object-fit: contain;
+        border-radius: 8px;
+        border: solid 1px #dadada;
+        background-image: linear-gradient(to right, #1cce46, #16c5b9);
+    }
+    .titleinput{
+        margin: 10px 20px;
+        object-fit: contain;
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-family: Gotham;
+        font-size: 15px !important;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.1;
+        letter-spacing: -.5px;
+        text-align: left;
+        color: #1f1f1f;
+    }
+    .input1{
+        padding: 5px ;
+        font-size: 9px ;
+        background-color: white;
+        border: none;
+        width: 80% !important;
+       margin-left: 4% ;
+       margin-bottom: 3% ;
+    }
+    .input2{
+        padding: 5px ;
+        font-size: 9px ;
+        background-color: white;
+        border: none;
+        width: 65% !important;
+       margin-left: 4% ;
+       margin-bottom: 3% ;
+    
+    }
+    .boxwhiteheader{
+        height: 350px ;
+        width: 340px;
+    }
+    #linearHeade{
+        margin-left: 9%;
+        margin-top: -4%;
+       
+        width: 350px !important;
+        height: 180px;
+        padding: 59px 0 71px 76px;
+        object-fit: contain;
+        background-image: linear-gradient(142deg, #18103d, #060314 100%);
+    }
+    .boxmenu{
+        margin-left: -25% !important;
+          margin-top: -45px !important;
+      }
+      .menu{
+          font-size: 10px !important;
+      }
+      .homemheader{
+        left: 240px;
+        top: 58px;
+        height: 250px;
+        width: 140px;
+        position: absolute;
+    }
+    .meialua{
+        top: 170px;
+        left: 486px !important;
+        position: absolute;
+        height: 120px;
+        width: 60px;
+    }
+    .circlewhite{
+        left: 505px !important;
+        top: 200px;
+        position: absolute;
+        height: 15px;
+        width: 15px;
+    }
+    .circlewhite2{
+        left: 505px !important;
+        top: 220px;
+        position: absolute;
+        height: 15px;
+        width: 15px;
+    }
+    .circlewhite3{
+        left: 505px !important;
+        top: 240px;
+        position: absolute;
+        height: 15px;
+        width: 15px;
+    }
+    .face{
+        left: 510px !important;
+        top: 204px;
+        position: absolute;
+        height: 7px;
+        width: 5px;
+    }
+    .insta{
+        left: 508.5px !important;
+        top: 223px;
+        position: absolute;
+        height: 8px;
+        width: 8px;
+    }
+    .whats{
+        left: 508.5px !important;
+        top: 243px;
+        position: absolute;
+        height: 8px;
+        width: 8px;
+    }
+    .poligonowhite{
+        left: 450px;
+        top: 35px;
+        position: absolute;
+        height: 12px;
+        width: 12px;
+    }
+    .elipseheader{
+        left: 370px;
+        top: 90px;
+        position: absolute;
+        height: 30px;
+        width: 30px;
+    }
+    .elipsegray{
+        left: 330px;
+        top: 40px;
+        position: absolute;
+        height: 12px;
+        width: 12px;
+    }
+    .retanguloblue{
+        left: 430px;
+        top: 160px;
+        position: absolute;
+        height: 15px;
+        width: 15px;
+    }
+    .boxtitleheader{
+        margin-left: 10% !important;
+        margin-top: 10% !important;
+        width: 300px !important;
+    }
+    .titleheader{
+        width: 150px;
+        font-size: 25px !important;
+    }
+    .subtitleheader{
+        width: 190px !important;
+        font-size: 13px !important;
+    }
+    .btnHeader{
+        width: 140px !important;
+        height: 25px;
+        margin-bottom: 25% ;
+        border: none;
+      font-size: 10px;
+      color: white;
+       font-family: 'Gotham';
+        border-radius: 10px;
+        background-image: linear-gradient(to right, #18103d, #ff1938);
+       }
+       .elipse2{
+        left: 210px;
+        top: 270px;
+        position: absolute;
+        height: 30px;
+        width: 30px;
+    }
+    .retanguloverm{
+        left: 15px;
+        top: 270px;
+        position: absolute;
+        height: 20px;
+        width: 20px;
+    }
+    .poligonoleft{
+        left: 240px;
+        top: 50px;
+        position: absolute;
+        height: 15px;
+        width: 15px;
+    }
+    .poligonorigth{
+        left: 20px;
+        top: 30px;
+        position: absolute;
+        height: 15px;
+        width: 15px;
+    }
+    .retangulogray{
+        left: 180px;
+        top: 60px;
+        position: absolute;
+        height: 15px;
+        width: 15px;
+
+    }
+    .estudanteverm{
+        height: 250px !important;
+        width: 280px !important;
+    }
+    .professora{
+        margin-top: 5px !important;
+        height: 270px !important;
+        width: 270px !important;
+    }
+    .bgimg{
+        height: 340px !important;
+        width: 280px !important;
+    }
+    .subtitleestudanteverm{
+        font-size: 11px !important;
+    }
+    .titleestudanteverm{
+        font-size: 20px !important;
+    }
+    .titleprofessor{
+        font-size: 20px !important;
+    }
+    .subtitleprofessor{
+        font-size: 10px !important;
+    }
+    .imgteacher{
+        margin-top: -15% !important;
+        height: 45px;
+        width: 45px;
+        padding: 0 10px;
+    }
+    .teachername{
+        font-size: 10px !important;
+    }
+    .elipse{
+      
+        position: absolute;
+        left: 250px;
+        right: 0;
+        top: 560px;
+        bottom: 0;
+       height: 50px;
+       width: 50px;
+    }
+    .quadrado2{
+       
+        position: absolute;
+        left: 480px;
+        right: 0;
+        top: 630px;
+        bottom: 0;
+       height: 25px;
+       width: 25px;
+
+    }
+    .circle{
+     
+        position: absolute;
+        left: 395px;
+        right: 0;
+        top: 710px;
+        bottom: 0;
+       height: 30px;
+       width: 30px;
+    }
+    .poligono2{
+      
+        position: absolute;
+        left: 450px;
+        right: 0;
+        top: 760px;
+        bottom: 0;
+       height: 30px;
+       width: 30px;
+
+    }
+    .number1{
+        margin-top: -25% !important;
+        z-index: -4;
+        height: 50px;
+        width: 50px;
+    }
+    .textnumber1{
+        opacity: 0.8;
+        position: absolute;
+        left: 300px;
+        right: 0;
+        top: 830px;
+        bottom: 0;
+        font-size: 15px;
+        font-weight: bold;
+    }
+    .number2{
+        margin-left: 190px;
+        margin-top: 20%;
+        z-index: -4;
+        height: 50px;
+        width: 50px;
+    }
+   
+
+    .textnumber2{
+        opacity: 0.8;
+        position: absolute;
+        left: 200px;
+        right: 20px;
+        top: 950px;
+        bottom: 0;
+        font-size: 15px;
+        font-weight: bold;
+        text-align: end;
+    }
+
+    .number3{
+        margin-top: 15%;
+        z-index: -4;
+        height: 50px;
+        width: 50px;
+    }
+    .textnumber3{
+        opacity: 0.8;
+        position: absolute;
+        left: 290px;
+        right: 0;
+        top: 1000px;
+        bottom: 0;
+        font-size: 15px;
+        font-weight: bold;
+    }
+    .number4{
+        margin-left: 190px;
+        margin-top: 5%;
+        z-index: -4;
+        height: 50px;
+        width: 50px;
+    }
+    
+    .textnumber4{
+        opacity: 0.8;
+        position: absolute;
+        left: 200px;
+        right: 20px;
+        top: 1060px;
+        bottom: 0;
+        font-size: 15px;
+        font-weight: bold;
+        text-align: end;
+    }
+    .circleblue{
+        position: absolute;
+        left: 450px;
+        right: 0;
+        top: 830px;
+        bottom: 0;
+       height: 15px;
+       width: 15px;
+    }
+    .poligono4{
+        position: absolute;
+        left: 280px;
+        right: 0;
+        top: 930px;
+        bottom: 0;
+       height: 25px;
+       width: 25px;
+    }
+    .poligono3{
+        position: absolute;
+        left: 520px;
+        right: 0;
+        top: 1040px;
+        bottom: 0;
+       height: 25px;
+       width: 25px;
+    }
+    .retangulo3{
+        position: absolute;
+        left: 350px;
+        right: 0;
+        top: 1120px;
+        bottom: 0;
+       height: 20px;
+       width: 20px;
+    }
+    .bgquadrado{
+        width: 80% !important;
+        height: 80% !important;
+       
+    }
+    .textbgimg{
+        padding-left: 10% !important;
+        font-size: 30px !important;
+    }
+    .poligonoverm{
+        opacity: 0.9;
+          position: absolute;
+          left: 260px;
+          right: 0;
+          top: 1110px;
+          bottom: 0;
+         height: 35px;
+         width: 35px;
+      }
+      .retangulorosa2{
+        
+        position: absolute;
+        left: 10px;
+        right: 0;
+        top: 1115px;
+        bottom: 0;
+       height: 35px;
+       width: 35px;
+    }
+    .retangulorosa{
+     
+        position: absolute;
+        left: 220px;
+        right: 0;
+        top: 835px;
+        bottom: 0;
+       height: 20px;
+       width: 20px;
+    }
+    .bordasocial{
+        position: absolute;
+        left: 350px;
+        right: 0;
+        top: 1440px;
+        bottom: 0;
+       height: 25px;
+       width: 25px;
+    }
+    .bordasocial2{
+        position: absolute;
+        left: 380px;
+        right: 0;
+        top: 1440px;
+        bottom: 0;
+       height: 25px;
+       width: 25px;
+    }
+    .bordasocial3{
+        position: absolute;
+        left: 410px;
+        right: 0;
+        top: 1440px;
+        bottom: 0;
+       height: 25px;
+       width: 25px;
+    }
+    .bordasocial4{
+        position: absolute;
+        left: 440px;
+        right: 0;
+        top: 1440px;
+        bottom: 0;
+       height: 25px;
+       width: 25px;
+    }
+    .faceverm{
+        position: absolute;
+        left: 350px;
+        right: 0;
+        top: 1440px;
+        bottom: 0;
+       height: 15px;
+       width: 15px;
+    }
+    
+    .instaverm{
+        position: absolute;
+        left: 384.5px;
+        right: 0;
+        top: 1444px;
+        bottom: 0;
+       height: 15px;
+       width: 15px;
+    }
+    
+    .whatsverm{
+        position: absolute;
+        left: 414.5px;
+        right: 0;
+        top: 1444px;
+        bottom: 0;
+       height: 15px;
+       width: 15px;
+    }
+    
+    .emailverm{
+        position: absolute;
+        left: 444.5px;
+        right: 0;
+        top: 1444px;
+        bottom: 0;
+       height: 15px;
+       width: 15px;
+    }
+    .boxtitlefooter2{
+        margin-top: -2px !important;
+    }
+    .box1titlefooter2{
+        margin-top: 9px !important;
+    }
+    
+    .Titlefooter2{
+       
+ font-size: 7px !important;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.71;
+        letter-spacing: normal;
+        text-align: left;
+        color: #726e8f;
+          }
+}
+@media(min-width: 768px){
+    .bgimg2{
+        margin-left: -5px;
+        width: 400px !important;
+        height: 300px !important;
+    }
+    .direitora{
+        margin-right: -35px;
+        width: 370px !important;
+        height: 300px !important;
+    }
+    .btn-input{
+        width: 343px;
+        height: 40px;
+        margin-left: 1%;
+        margin-top: 2%;
+        border: none;
+        font-size: 15px;
+        color: white;
+        object-fit: contain;
+        border-radius: 8px;
+        border: solid 1px #dadada;
+        background-image: linear-gradient(to right, #1cce46, #16c5b9);
+    }
+    .titleinput{
+        margin: 10px;
+        margin-left: 5% !important;
+        object-fit: contain;
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-family: Gotham;
+        font-size: 25px !important;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.1;
+        letter-spacing: -.5px;
+        text-align: left;
+        color: #1f1f1f;
+    }
+    .input1{
+        padding: 5px ;
+        font-size: 9px ;
+        background-color: white;
+        border: none;
+        width: 80% !important;
+        height: 30px !important;
+       margin-left: 4% ;
+       margin-bottom: 3% ;
+    }
+    .input2{
+      
+        padding: 5px ;
+        font-size: 9px ;
+        background-color: white;
+        border: none;
+        width: 80% !important;
+        height: 30px !important;
+       margin-left: 12% ;
+       margin-bottom: 3% ;
+    
+    }
+    .boxwhiteheader{
+        height: 500px ;
+        width: 700px !important;
+    }
+    #linearHeade{
+        margin-right: -10.5%;
+        margin-top: -4%;
+        width: 350px !important;
+        height: 305px;
+        padding: 59px 0 71px 76px;
+        object-fit: contain;
+        background-image: linear-gradient(142deg, #18103d, #060314 100%);
+    }
+    .homemheader{
+        left: 370px;
+        top: 92px;
+        height: 330px;
+        width: 210px;
+        position: absolute;
+    }
+    .meialua{
+        top: 190px;
+        left: 680px !important;
+        position: absolute;
+        height: 190px;
+        width: 100px;
+    }
+    .circlewhite{
+        left: 700px !important;
+        top: 250px;
+        position: absolute;
+        height: 20px;
+        width: 20px;
+    }
+    .circlewhite2{
+        left: 700px !important;
+        top: 280px;
+        position: absolute;
+        height: 20px;
+        width: 20px;
+    }
+    .circlewhite3{
+        left: 700px !important;
+        top: 310px;
+        position: absolute;
+        height: 20px;
+        width: 20px;
+    }
+    .face{
+        left: 706px !important;
+        top: 254px;
+        position: absolute;
+        height: 10px;
+        width: 6px;
+    }
+    .insta{
+        left: 705px !important;
+        top: 284px;
+        position: absolute;
+        height: 10px;
+        width: 10px;
+    }
+    .whats{
+        left: 705px !important;
+        top: 314px;
+        position: absolute;
+        height: 10px;
+        width: 10px;
+    }
+    .boxmenu{
+        margin-left: -15% !important;
+          margin-top: -45px !important;
+      }
+      .menu{
+          font-size: 13px !important;
+      }
+      .poligonowhite{
+        left: 640px;
+        top: 35px;
+        position: absolute;
+        height: 15px;
+        width: 15px;
+    }
+    .elipsegray{
+        left: 490px;
+        top: 40px;
+        position: absolute;
+        height: 10px;
+        width: 10px;
+    }
+    .elipseheader{
+        left: 540px;
+        top: 150px;
+        position: absolute;
+        height: 40px;
+        width: 40px;
+    }
+    .elipse2{
+        left: 320px;
+        top: 370px;
+        position: absolute;
+        height: 30px;
+        width: 30px;
+    }
+    .retanguloblue{
+        left: 600px;
+        top: 230px;
+        position: absolute;
+        height: 20px;
+        width: 20px;
+    }
+    .retanguloverm{
+        left: 10px;
+        top: 400px;
+        position: absolute;
+        height: 20px;
+        width: 20px;
+    }
+    .titleheader{
+        width: 250px;
+        font-size: 30px !important;
+    }
+    .subtitleheader{
+      width: 250px !important;
+        font-size: 18px !important;
+    }
+    .btnHeader{
+        width: 150px !important;
+        height: 30px;
+        margin-bottom: 25% ;
+        border: none;
+      font-size: 15px;
+      color: white;
+       font-family: 'Gotham';
+        border-radius: 10px;
+        background-image: linear-gradient(to right, #18103d, #ff1938);
+       }
+       .poligonoleft{
+        left: 350px;
+        top: 50px;
+        position: absolute;
+        height: 25px;
+        width: 25px;
+    }
+    .poligonorigth{
+        left: 20px;
+        top: 60px;
+        position: absolute;
+        height: 25px;
+        width: 25px;
+    }
+    .retangulogray{
+        left: 300px;
+        top: 120px;
+        position: absolute;
+        height: 20px;
+        width: 20px;
+
+    }
+    .estudanteverm{
+        margin-top: -15px !important;
+        height: 300px !important;
+        width: 420px !important;
+    }
+    .subtitleestudanteverm{
+        font-size: 13px !important;
+    }
+    .titleestudanteverm{
+        font-size: 25px !important;
+    }
+    .professora{
+        margin-top: 10px !important;
+        height: 310px !important;
+        width: 368px !important;
+    }
+    .titleprofessor{
+        
+        font-size: 25px !important;
+    }
+    .subtitleprofessor{
+        font-size: 12px !important;
+    }
+    .imgteacher{
+        margin-left: 50%;
+        height: 60px;
+        width: 60px;
+        padding: 0 10px;
+    }
+    .teachername{
+       margin-right: -90% !important;
+        font-size: 12px !important;
+    }
+    .bgimg{
+        height: 348px !important;
+        width: 422px !important;
+    }
+    .quadrado2{
+       
+        position: absolute;
+        left: 700px;
+        right: 0;
+        top: 790px;
+        bottom: 0;
+       height: 30px;
+       width: 30px;
+
+    }
+    .circle{
+     
+        position: absolute;
+        left: 575px;
+        right: 0;
+        top: 900px;
+        bottom: 0;
+       height: 35px;
+       width: 35px;
+    }
+    .poligono2{
+      
+        position: absolute;
+        left: 630px;
+        right: 0;
+        top: 950px;
+        bottom: 0;
+       height: 40px;
+       width: 40px;
+
+    }
+    .elipse{
+      
+        position: absolute;
+        left: 380px;
+        right: 0;
+        top: 740px;
+        bottom: 0;
+       height: 50px;
+       width: 50px;
+    }
+    .retangulorosa2{
+        
+        position: absolute;
+        left: 10px;
+        right: 0;
+        top: 1320px;
+        bottom: 0;
+       height: 40px;
+       width: 40px;
+    }
+    .retangulorosa{
+     
+        position: absolute;
+        left: 320px;
+        right: 0;
+        top: 1040px;
+        bottom: 0;
+       height: 25px;
+       width: 25px;
+    }
+    .poligonoverm{
+        opacity: 0.9;
+          position: absolute;
+          left: 390px;
+          right: 0;
+          top: 1320px;
+          bottom: 0;
+         height: 50px;
+         width: 50px;
+      }
+      .textnumber1{
+        opacity: 0.8;
+        position: absolute;
+        left: 420px;
+        right: 0;
+        top: 1035px;
+        bottom: 0;
+        font-size: 20px;
+        font-weight: bold;
+    }
+ 
+    .textnumber2{
+        opacity: 0.8;
+        position: absolute;
+        left: 200px;
+        right: 20px;
+        top: 1120px;
+        bottom: 0;
+        font-size: 20px;
+        font-weight: bold;
+        text-align: end;
+    }
+
+   
+    .textnumber3{
+        opacity: 0.8;
+        position: absolute;
+        left: 420px;
+        right: 0;
+        top: 1215px;
+        bottom: 0;
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+ 
+    .textnumber4{
+        opacity: 0.8;
+        position: absolute;
+        left: 200px;
+        right: 20px;
+        top: 1270px;
+        bottom: 0;
+        font-size: 20px;
+        font-weight: bold;
+        text-align: end;
+    }
+    .poligono3{
+        position: absolute;
+        left: 742px;
+        right: 0;
+        top: 1235px;
+        bottom: 0;
+       height: 35px;
+       width: 35px;
+    }
+    .circleblue{
+        position: absolute;
+        left: 600px;
+        right: 0;
+        top: 1040px;
+        bottom: 0;
+       height: 20px;
+       width: 20px;
+    }
+    .retangulo3{
+        position: absolute;
+        left: 500px;
+        right: 0;
+        top: 1345px;
+        bottom: 0;
+       height: 25px;
+       width: 25px;
+    }
+    .bordasocial{
+        position: absolute;
+        left: 500px;
+        right: 0;
+        top: 1700px;
+        bottom: 0;
+        height: 35px;
+       width: 35px;
+    }
+    .bordasocial2{
+        position: absolute;
+        left: 560px;
+        right: 0;
+        top: 1700px;
+        bottom: 0;
+        height: 35px;
+        width: 35px;
+    }
+    .bordasocial3{
+        position: absolute;
+        left: 620px;
+        right: 0;
+        top: 1700px;
+        bottom: 0;
+        height: 35px;
+        width: 35px;
+    }
+    .bordasocial4{
+        position: absolute;
+        left: 680px;
+        right: 0;
+        top: 1700px;
+        bottom: 0;
+       height: 35px;
+       width: 35px;
+    }
+    .faceverm{
+        position: absolute;
+        left: 500px;
+        right: 0;
+        top: 1700px;
+        bottom: 0;
+       height: 25px;
+       width: 25px;
+    }
+    
+    .instaverm{
+        position: absolute;
+        left: 567px;
+        right: 0;
+        top: 1705px;
+        bottom: 0;
+       height: 20px;
+       width: 20px;
+    }
+    
+    .whatsverm{
+        position: absolute;
+        left: 627px;
+        right: 0;
+        top: 1705px;
+        bottom: 0;
+       height: 20px;
+       width: 20px;
+    }
+    
+    .emailverm{
+        position: absolute;
+        left: 687px;
+        right: 0;
+        top: 1705px;
+        bottom: 0;
+       height: 20px;
+       width: 20px;
+    }
+    .Titlefooter{
+   
+  margin-top: -5px !important;
+        font-family: Gotham;
+       font-size: 10px !important;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.58;
+        letter-spacing: 1.8px;
+        text-align: left;
+        color: #ff1938;
+          }
+          .Titlefooter2{
+            
+             font-size: 7.5px !important;
+            font-weight: normal;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: 1.71;
+            letter-spacing: normal;
+            text-align: left;
+            color: #726e8f;
+              }
+
+}
+@media(min-width: 1024px){
+    .bgimg2{
+        margin-left: -5px;
+        width: 524px !important;
+        height: 400px !important;
+    }
+    .direitora{
+        margin-right: -35px;
+        width: 510px !important;
+        height: 400px !important;
+    }
+    .btn-input{
+        width: 433px;
+        height: 50px;
+        margin-left: 10%;
+        margin-top: 2%;
+        border: none;
+        font-size: 19px;
+        color: white;
+        object-fit: contain;
+        border-radius: 8px;
+        border: solid 1px #dadada;
+        background-image: linear-gradient(to right, #1cce46, #16c5b9);
+    }
+    .titleinput{
+        margin: 19px;
+        margin-left: 5% !important;
+        object-fit: contain;
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-family: Gotham;
+        font-size: 35px !important;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.1;
+        letter-spacing: -.5px;
+        text-align: left;
+        color: #1f1f1f;
+    }
+    .input1{
+        padding: 5px ;
+        font-size: 9px ;
+        background-color: white;
+        border: none;
+        width: 80% !important;
+        height: 30px !important;
+       margin-left: 10% ;
+       margin-bottom: 3% ;
+    }
+    .input2{
+      
+        padding: 5px ;
+        font-size: 9px ;
+        background-color: white;
+        border: none;
+        width: 90% !important;
+        height: 30px !important;
+       margin-left: 40% !important;
+       margin-bottom: 3% ;
+    
+    }
+    .boxwhiteheader{
+        height: 515px ;
+        width: 1000px !important;
+    }
+    #linearHeade{
+        margin-left: 21% !important;
+        margin-top: -4%;
+        width: 350px !important;
+        height: 305px;
+        padding: 59px 0 71px 76px;
+        object-fit: contain;
+        background-image: linear-gradient(142deg, #18103d, #060314 100%);
+    }
+    .homemheader{
+        left: 570px;
+        top: 44px;
+        height: 370px;
+        width: 215px;
+        position: absolute;
+    }
+    .meialua{
+        top: 190px;
+        left: 933px !important;
+        position: absolute;
+        height: 200px;
+        width: 110px;
+    }
+    .circlewhite{
+        left: 960px !important;
+        top: 250px;
+        position: absolute;
+        height: 25px;
+        width: 25px;
+    }
+    .circlewhite2{
+        left: 960px !important;
+        top: 285px;
+        position: absolute;
+        height: 25px;
+        width: 25px;
+    }
+    .circlewhite3{
+        left: 960px !important;
+        top: 320px;
+        position: absolute;
+        height: 25px;
+        width: 25px;
+    }
+    .face{
+        left: 966px !important;
+        top: 254px;
+        position: absolute;
+        height: 15px;
+        width: 10px;
+    }
+    .insta{
+        left: 965px !important;
+        top: 289px;
+        position: absolute;
+        height: 15px;
+        width: 15px;
+    }
+    .whats{
+        left: 965px !important;
+        top: 324px;
+        position: absolute;
+        height: 15px;
+        width: 15px;
+    }
+    .boxmenu{
+        margin-left: -10% !important;
+          margin-top: -35px !important;
+      }
+      .menu{
+          font-size: 18px !important;
+      }
+      .poligonowhite{
+        left: 940px;
+        top: 50px;
+        position: absolute;
+        height: 20px;
+        width: 20px;
+    }
+    .elipsegray{
+        left: 720px;
+        top: 45px;
+        position: absolute;
+        height: 20px;
+        width: 20px;
+    }
+    .elipseheader{
+        left: 750px;
+        top: 110px;
+        position: absolute;
+        height: 50px;
+        width: 50px;
+    }
+    .elipse2{
+        left: 430px;
+        top: 340px;
+        position: absolute;
+        height: 50px;
+        width: 50px;
+    }
+    .retanguloblue{
+        left: 860px;
+        top: 230px;
+        position: absolute;
+        height: 25px;
+        width: 25px;
+    }
+    .retanguloverm{
+        left: 10px;
+        top: 370px;
+        position: absolute;
+        height: 35px;
+        width: 35px;
+    }
+    .boxtitleheader{
+        margin-top: 2% !important;
+        width: 300px !important;
+    }
+    .titleheader{
+        width: 250px;
+        font-size: 40px !important;
+    }
+    .subtitleheader{
+      
+      width: 300px !important;
+        font-size: 20px !important;
+    }
+    .btnHeader{
+        width: 170px !important;
+        height: 35px;
+        margin-bottom: 25% ;
+        border: none;
+      font-size: 16px;
+      color: white;
+       font-family: 'Gotham';
+        border-radius: 10px;
+        background-image: linear-gradient(to right, #18103d, #ff1938);
+       }
+       .poligonoleft{
+        left: 510px;
+        top: 50px;
+        position: absolute;
+        height: 30px;
+        width: 30px;
+    }
+    .poligonorigth{
+        left: 20px;
+        top: 60px;
+        position: absolute;
+        height: 25px;
+        width: 25px;
+    }
+    .retangulogray{
+        left: 430px;
+        top: 120px;
+        position: absolute;
+        height: 25px;
+        width: 25px;
+
+    }
+    .estudanteverm{
+        margin-top: -15px !important;
+        height: 400px !important;
+        width: 550px !important;
+    }
+    .subtitleestudanteverm{
+        font-size: 19px !important;
+    }
+    .titleestudanteverm{
+        font-size: 35px !important;
+    }
+    .professora{
+        margin-top:16px !important;
+        height: 480px !important;
+        width: 509px !important;
+    }
+    .titleprofessor{
+        
+        font-size: 35px !important;
+    }
+    .subtitleprofessor{
+        font-size: 15px !important;
+    }
+    .imgteacher{
+        margin-left: 20%;
+        height: 70px;
+        width: 70px;
+        padding: 0 10px;
+    }
+    .teachername{
+        padding: 0 5px;
+       margin-right: -70% !important;
+        font-size: 15px !important;
+    }
+    .bgimg{
+        margin-top: 8px !important;
+        height: 500px !important;
+        width: 550px !important;
+    }
+    .quadrado2{
+       
+        position: absolute;
+        left: 930px;
+        right: 0;
+        top: 960px;
+        bottom: 0;
+       height: 35px;
+       width: 35px;
+
+    }
+    .circle{
+     
+        position: absolute;
+        left: 760px;
+        right: 0;
+        top: 1100px;
+        bottom: 0;
+       height: 40px;
+       width: 40px;
+    }
+    .poligono2{
+      
+        position: absolute;
+        left: 890px;
+        right: 0;
+        top: 1170px;
+        bottom: 0;
+       height: 50px;
+       width: 50px;
+
+    }
+    .elipse{
+      
+        position: absolute;
+        left: 500px;
+        right: 0;
+        top: 850px;
+        bottom: 0;
+       height: 60px;
+       width: 60px;
+    }
+    .textbgimg{
+        padding-left: 10% !important;
+        font-size: 50px !important;
+    }
+    .retangulorosa2{
+        
+        position: absolute;
+        left: 10px;
+        right: 0;
+        top: 1710px;
+        bottom: 0;
+       height: 50px;
+       width: 50px;
+    }
+    .retangulorosa{
+     
+        position: absolute;
+        left: 420px;
+        right: 0;
+        top: 1300px;
+        bottom: 0;
+       height: 25px;
+       width: 25px;
+    }
+    .poligonoverm{
+        opacity: 0.9;
+          position: absolute;
+          left: 505px;
+          right: 0;
+          top: 1690px;
+          bottom: 0;
+         height: 55px;
+         width: 55px;
+      }
+      .number1{
+        
+        z-index: -4;
+        height: 90px;
+        width: 90px;
+    }
+      .textnumber1{
+        opacity: 0.8;
+        position: absolute;
+        left: 600px;
+        right: 0;
+        top: 1300px;
+        bottom: 0;
+        font-size: 25px;
+        font-weight: bold;
+    }
+    .number2{
+        margin-left: 350px;
+        margin-top: 10%;
+        z-index: -4;
+        height: 90px;
+        width: 90px;
+    }
+ 
+    .textnumber2{
+        opacity: 0.8;
+        position: absolute;
+        left: 200px;
+        right: 20px;
+        top: 1440px;
+        bottom: 0;
+        font-size: 25px;
+        font-weight: bold;
+        text-align: end;
+    }
+
+    .number3{
+        margin-top: 10%;
+        z-index: -4;
+        height: 90px;
+        width: 90px;
+    }
+   
+    .textnumber3{
+        opacity: 0.8;
+        position: absolute;
+        left: 600px;
+        right: 0;
+        top: 1550px;
+        bottom: 0;
+        font-size: 25px;
+        font-weight: bold;
+    }
+
+    .number4{
+        margin-left: 350px;
+        margin-top: 5%;
+        z-index: -4;
+        height: 90px;
+        width: 90px;
+    }
+    .textnumber4{
+        opacity: 0.8;
+        position: absolute;
+        left: 200px;
+        right: 20px;
+        top: 1650px;
+        bottom: 0;
+        font-size: 25px;
+        font-weight: bold;
+        text-align: end;
+    }
+
+    .poligono3{
+        position: absolute;
+        left: 962px;
+        right: 0;
+        top: 1600px;
+        bottom: 0;
+       height: 45px;
+       width: 45px;
+    }
+    .circleblue{
+        position: absolute;
+        left: 790px;
+        right: 0;
+        top: 1300px;
+        bottom: 0;
+       height: 20px;
+       width: 20px;
+    }
+    .poligono4{
+        position: absolute;
+        left: 600px;
+        right: 0;
+        top: 1500px;
+        bottom: 0;
+       height: 35px;
+       width: 35px;
+    }
+    .retangulo3{
+        position: absolute;
+        left: 700px;
+        right: 0;
+        top: 1745px;
+        bottom: 0;
+       height: 30px;
+       width: 30px;
+    }
+    .ContainerFooter{
+        height: 100px !important;
+        margin-left: -5% !important;
+        margin-bottom: -3% !important;
+    }
+    .bordasocial{
+        position: absolute;
+        left: 700px;
+        right: 0;
+        top: 2230px;
+        bottom: 0;
+        height: 40px;
+       width: 40px;
+    }
+    .bordasocial2{
+        position: absolute;
+        left: 750px;
+        right: 0;
+        top: 2230px;
+        bottom: 0;
+        height: 40px;
+       width: 40px;
+    }
+    .bordasocial3{
+        position: absolute;
+        left: 800px;
+        right: 0;
+        top: 2230px;
+        bottom: 0;
+        height: 40px;
+       width: 40px;
+    }
+    .bordasocial4{
+        position: absolute;
+        left: 850px;
+        right: 0;
+        top: 2230px;
+        bottom: 0;
+        height: 40px;
+       width: 40px;
+    }
+    .faceverm{
+        position: absolute;
+        left: 904px;
+        right: 0;
+        top: 2233px;
+        bottom: 0;
+       height: 30px;
+       width: 30px;
+    }
+    
+    .instaverm{
+        position: absolute;
+        left: 757px;
+        right: 0;
+        top: 2236px;
+        bottom: 0;
+       height: 25px;
+       width: 25px;
+    }
+    
+    .whatsverm{
+        position: absolute;
+        left: 807px;
+        right: 0;
+        top: 2236px;
+        bottom: 0;
+       height: 25px;
+       width: 25px;
+    }
+    
+    .emailverm{
+        position: absolute;
+        left: 857px;
+        right: 0;
+        top: 2236px;
+        bottom: 0;
+       height: 25px;
+       width: 25px;
+    }
+    .Titlefooter{
+   
+  margin-top: -10px !important;
+        font-family: Gotham;
+       font-size: 15px !important;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.58;
+        letter-spacing: 1.8px;
+        text-align: left;
+        color: #ff1938;
+          }
+          .Titlefooter2{
+            
+             font-size: 10.5px !important;
+            font-weight: normal;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: 1.71;
+            letter-spacing: normal;
+            text-align: left;
+            color: #726e8f;
+              }
+              .box1titlefooter2{
+                margin-top: 9px !important;
+                margin-left: 10% !important;
+            }
+}
+@media(min-width: 1280px){
+   
+    .bgimg2{
+        margin-left: -5px;
+        width: 665px !important;
+        height: 400px !important;
+    }
+    .direitora{
+        margin-right: -65px;
+        width: 640px !important;
+        height: 400px !important;
+    }
+    .btn-input{
+        width: 80%;
+        height: 50px;
+        margin-left: 10%;
+        margin-top: 2%;
+        border: none;
+        font-size: 19px;
+        color: white;
+        object-fit: contain;
+        border-radius: 8px;
+        border: solid 1px #dadada;
+        background-image: linear-gradient(to right, #1cce46, #16c5b9);
+    }
+    .titleinput{
+        margin: 19px;
+        margin-left: 5% !important;
+        object-fit: contain;
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-family: Gotham;
+        font-size: 45px !important;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.1;
+        letter-spacing: -.5px;
+        text-align: left;
+        color: #1f1f1f;
+    }
+    .input1{
+        padding: 5px ;
+        font-size: 25px ;
+        background-color: white;
+        border: none;
+        width: 80% !important;
+        height: 30px !important;
+       margin-left: 10% ;
+       margin-bottom: 3% ;
+    }
+    .input2{
+      
+        padding: 5px ;
+        font-size: 25px ;
+        background-color: white;
+        border: none;
+        width: 80% !important;
+        height: 30px !important;
+       margin-left: 20% !important;
+       margin-bottom: 3% ;
+    
+    }
+    .boxwhiteheader{
+        height: 725px ;
+        width: 1260px !important;
+    }
+    #linearHeade{
+        margin-left: 20% !important;
+        margin-top: -4%;
+        width: 547px !important;
+        height: 470px;
+        padding: 59px 0 71px 76px;
+        object-fit: contain;
+        background-image: linear-gradient(142deg, #18103d, #060314 100%);
+    }
+    .homemheader{
+        left: 630px;
+        top: 75px;
+        height: 500px;
+        width: 265px;
+        position: absolute;
+    }
+    .meialua{
+        top: 230px;
+        left: 1158px !important;
+        position: absolute;
+        height: 270px;
+        width: 150px;
+    }
+    .circlewhite{
+        left: 1190px !important;
+        top: 290px;
+        position: absolute;
+        height: 35px;
+        width: 35px;
+    }
+    .circlewhite2{
+        left: 1190px !important;
+        top: 340px;
+        position: absolute;
+        height: 35px;
+        width: 35px;
+    }
+    .circlewhite3{
+        left: 1190px !important;
+        top: 390px;
+        position: absolute;
+        height: 35px;
+        width: 35px;
+    }
+    .face{
+        left: 1200px !important;
+        top: 296px;
+        position: absolute;
+        height: 20px;
+        width: 15px;
+    }
+    .insta{
+        left: 1198px !important;
+        top: 345px;
+        position: absolute;
+        height: 20px;
+        width: 20px;
+    }
+    .whats{
+        left: 1198px !important;
+        top: 395px;
+        position: absolute;
+        height: 20px;
+        width: 20px;
+    }
+    .boxmenu{
+        margin-left: -10% !important;
+          margin-top: -35px !important;
+      }
+      .menu{
+          font-size: 23px !important;
+          padding: 0 13px !important;
+      }
+      .poligonowhite{
+        left: 1140px;
+        top: 70px;
+        position: absolute;
+        height: 25px;
+        width: 25px;
+    }
+    .elipsegray{
+        left: 820px;
+        top: 55px;
+        position: absolute;
+        height: 22px;
+        width: 22px;
+    }
+    .elipseheader{
+        left: 870px;
+        top: 140px;
+        position: absolute;
+        height: 70px;
+        width: 70px;
+    }
+    .elipse2{
+        left: 570px;
+        top: 460px;
+        position: absolute;
+        height: 60px;
+        width: 60px;
+    }
+    .retanguloblue{
+        left: 1020px;
+        top: 230px;
+        position: absolute;
+        height: 30px;
+        width: 30px;
+    }
+    .retanguloverm{
+        left: 10px;
+        top: 520px;
+        position: absolute;
+        height: 40px;
+        width: 40px;
+    }
+    .boxtitleheader{
+        margin-top: 2% !important;
+        width: 300px !important;
+    }
+    .titleheader{
+        font-family: sans-serif !important;
+        width: 350px;
+        font-size: 50px !important;
+    }
+    .subtitleheader{
+      font-family: sans-serif !important;
+      width: 450px !important;
+        font-size: 22px !important;
+    }
+    .btnHeader{
+        width: 290px !important;
+        height: 45px;
+        margin-top: 15%   ;
+        border: none;
+      font-size: 18px;
+      color: white;
+       font-family: 'Gotham' , sans-serif;
+        border-radius: 10px;
+        background-image: linear-gradient(to right, #18103d, #ff1938);
+       }
+       .poligonoleft{
+        left: 610px;
+        top: 90px;
+        position: absolute;
+        height: 35px;
+        width: 35px;
+    }
+    .poligonorigth{
+        left: 20px;
+        top: 90px;
+        position: absolute;
+        height: 35px;
+        width: 35px;
+    }
+    .retangulogray{
+        left: 480px;
+        top: 120px;
+        position: absolute;
+        height: 30px;
+        width: 30px;
+
+    }
+    .estudanteverm{
+        margin-top: -39px !important;
+        height: 550px !important;
+        width: 700px !important;
+    }
+    .subtitleestudanteverm{
+        font-size: 22px !important;
+    }
+    .titleestudanteverm{
+        font-size: 45px !important;
+    }
+    .professora{
+        margin-top:22px !important;
+        height: 480px !important;
+        width: 627px !important;
+    }
+    .titleprofessor{
+        
+        font-size: 45px !important;
+    }
+    .subtitleprofessor{
+        font-size: 18px !important;
+    }
+    .imgteacher{
+        margin-left: 40%;
+        height: 70px;
+        width: 70px;
+        padding: 0 10px;
+    }
+    .teachername{
+        padding: 0 20px;
+       margin-right: -50% !important;
+        font-size: 15px !important;
+    }
+    .bgimg{
+        margin-top: 15px !important;
+        height: 530px !important;
+        width: 700px !important;
+    }
+    .quadrado2{
+       
+        position: absolute;
+        left: 1160px;
+        right: 0;
+        top: 1260px;
+        bottom: 0;
+       height: 45px;
+       width: 45px;
+
+    }
+    .circle{
+     
+        position: absolute;
+        left: 960px;
+        right: 0;
+        top: 1400px;
+        bottom: 0;
+       height: 50px;
+       width: 50px;
+    }
+    .poligono2{
+      
+        position: absolute;
+        left: 1090px;
+        right: 0;
+        top: 1470px;
+        bottom: 0;
+       height: 60px;
+       width: 60px;
+
+    }
+    .elipse{
+      
+        position: absolute;
+        left: 630px;
+        right: 0;
+        top: 1150px;
+        bottom: 0;
+       height: 80px;
+       width: 80px;
+    }
+    .textbgimg{
+        padding-left: 15% !important;
+        font-size: 60px !important;
+    }
+    .retangulorosa2{
+        
+        position: absolute;
+        left: 10px;
+        right: 0;
+        top: 2040px;
+        bottom: 0;
+       height: 50px;
+       width: 50px;
+    }
+    .retangulorosa{
+     
+        position: absolute;
+        left: 520px;
+        right: 0;
+        top: 1610px;
+        bottom: 0;
+       height: 30px;
+       width: 30px;
+    }
+    .poligonoverm{
+        opacity: 0.9;
+          position: absolute;
+          left: 655px;
+          right: 0;
+          top: 2050px;
+          bottom: 0;
+         height: 65px;
+         width: 65px;
+      }
+      .number1{
+        
+        z-index: -4;
+        height: 90px;
+        width: 90px;
+    }
+      .textnumber1{
+        opacity: 0.8;
+        position: absolute;
+        left: 720px;
+        right: 0;
+        top: 1620px;
+        bottom: 0;
+        font-size: 25px;
+        font-weight: bold;
+    }
+    .number2{
+        margin-left: 350px;
+        margin-top: 10%;
+        z-index: -4;
+        height: 90px;
+        width: 90px;
+    }
+ 
+    .textnumber2{
+        opacity: 0.8;
+        position: absolute;
+        left: 200px;
+        right: 50px;
+        top: 1740px;
+        bottom: 0;
+        font-size: 25px;
+        font-weight: bold;
+        text-align: end;
+    }
+
+    .number3{
+        margin-top: 10%;
+        z-index: -4;
+        height: 90px;
+        width: 90px;
+    }
+   
+    .textnumber3{
+        opacity: 0.8;
+        position: absolute;
+        left: 700px;
+        right: 0;
+        top: 1890px;
+        bottom: 0;
+        font-size: 25px;
+        font-weight: bold;
+    }
+
+    .number4{
+        margin-left: 350px;
+        margin-top: 5%;
+        z-index: -4;
+        height: 90px;
+        width: 90px;
+    }
+    .textnumber4{
+        opacity: 0.8;
+        position: absolute;
+        left: 200px;
+        right: 20px;
+        top: 2000px;
+        bottom: 0;
+        font-size: 25px;
+        font-weight: bold;
+        text-align: end;
+    }
+
+    .poligono3{
+        position: absolute;
+        left: 1240px;
+        right: 0;
+        top: 1930px;
+        bottom: 0;
+       height: 45px;
+       width: 45px;
+    }
+    .circleblue{
+        position: absolute;
+        left: 990px;
+        right: 0;
+        top: 1620px;
+        bottom: 0;
+       height: 25px;
+       width: 25px;
+    }
+    .poligono4{
+        position: absolute;
+        left: 720px;
+        right: 0;
+        top: 1780px;
+        bottom: 0;
+       height: 45px;
+       width: 45px;
+    }
+    .retangulo3{
+        position: absolute;
+        left: 840px;
+        right: 0;
+        top: 2095px;
+        bottom: 0;
+       height: 30px;
+       width: 30px;
+    }
+    .ContainerFooter{
+        height: 150px !important;
+        margin-left: -5% !important;
+        margin-bottom: -3% !important;
+    }
+    .bordasocial{
+        position: absolute;
+        left: 1050px;
+        right: 0;
+        top: 2590px;
+        bottom: 0;
+        height: 40px;
+       width: 40px;
+    }
+    .bordasocial2{
+        position: absolute;
+        left: 1100px;
+        right: 0;
+        top: 2590px;
+        bottom: 0;
+        height: 40px;
+       width: 40px;
+    }
+    .bordasocial3{
+        position: absolute;
+        left: 1150px;
+        right: 0;
+        top: 2590px;
+        bottom: 0;
+        height: 40px;
+       width: 40px;
+    }
+    .bordasocial4{
+        position: absolute;
+        left: 1200px;
+        right: 0;
+        top: 2590px;
+        bottom: 0;
+        height: 40px;
+       width: 40px;
+    }
+    .faceverm{
+        position: absolute;
+        left: 1050px;
+        right: 0;
+        top: 2590px;
+        bottom: 0;
+       height: 30px;
+       width: 30px;
+    }
+    
+    .instaverm{
+        position: absolute;
+        left: 1107px;
+        right: 0;
+        top: 2596px;
+        bottom: 0;
+       height: 25px;
+       width: 25px;
+    }
+    
+    .whatsverm{
+        position: absolute;
+        left: 1157px;
+        right: 0;
+        top: 2596px;
+        bottom: 0;
+       height: 25px;
+       width: 25px;
+    }
+    
+    .emailverm{
+        position: absolute;
+        left: 1207px;
+        right: 0;
+        top: 2596px;
+        bottom: 0;
+       height: 25px;
+       width: 25px;
+    }
+    .Titlefooter{
+   
+  margin-top: -10px !important;
+        font-family: 'Gotham' ,sans-serif !important;
+       font-size: 19px !important;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.58;
+        letter-spacing: 1.8px;
+        text-align: left;
+        color: #ff1938;
+          }
+          .Titlefooter2{
+            
+             font-size: 14.5px !important;
+            font-weight: normal;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: 1.71;
+            letter-spacing: normal;
+            text-align: left;
+            color: #726e8f;
+              }
+              .box1titlefooter2{
+                margin-top: 9px !important;
+                margin-left: 15% !important;
+            }
+            .imgfooter{
+               height: 19px !important;
+               width: 19px !important;
+            }
+           
+}
+@media(min-width: 1300px){
+
+  .professora{
+        margin-top:22px !important;
+        height: 480px !important;
+        width: 650px !important;
+    }
+}
